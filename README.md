@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project performs **Exploratory Data Analysis (EDA)** on a retail sales dataset using **Python**. It analyzes customer purchasing behavior, sales trends, and product category performance to generate meaningful business insights through data visualization.
+This project performs **Exploratory Data Analysis (EDA)** on a retail sales dataset using **Python**. It analyzes customer purchasing behavior, sales trends, and product category performance to generate meaningful business insights through data analysis and visualization.
 
 ---
 
@@ -42,26 +42,6 @@ The dataset contains retail sales information, including:
 
 ---
 
-## 📊 Visualizations
-
-### Sales by Product Category
-
-![Sales by Category](screenshots/sales_by_category.png)
-
-### Monthly Sales Trend
-
-![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
-
-### Customer Age vs Spending
-
-![Age vs Spending](screenshots/age_vs_spending.png)
-
-### Sales by Gender
-
-![Sales by Gender](screenshots/sales_by_gender.png)
-
----
-
 ## 📈 Key Insights
 
 - Electronics generated the highest overall sales.
@@ -81,8 +61,8 @@ The dataset contains retail sales information, including:
 pip install pandas numpy matplotlib
 ```
 
-3. Open **Retail_Sales_Analysis.ipynb** in Google Colab or run **Retail_Sales_Analysis.py** using Python.
-4. Ensure **retail_sales_dataset.csv** is placed in the project directory.
+3. Open `Retail_Sales_Analysis.ipynb` in Google Colab or run `Retail_Sales_Analysis.py` using Python.
+4. Ensure `retail_sales_dataset.csv` is placed in the project directory.
 5. Execute the notebook or Python script.
 
 ---
@@ -95,12 +75,7 @@ Retail-Sales-Analysis/
 ├── Retail_Sales_Analysis.ipynb
 ├── Retail_Sales_Analysis.py
 ├── retail_sales_dataset.csv
-├── README.md
-└── screenshots/
-    ├── sales_by_category.png
-    ├── monthly_sales_trend.png
-    ├── age_vs_spending.png
-    └── sales_by_gender.png
+└── README.md
 ```
 
 ---
@@ -115,4 +90,4 @@ Retail-Sales-Analysis/
 
 ## 👩‍💻 Author
 
- Tejaswini S
+  Tejaswini S
